@@ -5,10 +5,10 @@ I am a software developer who specializes in web and mobile application developm
 ## 🔭 Technologies and Programming Languages I'm Proficient In
 * PHP
 * JavaScript
+* Python
 * Golang
 * Bash/Shell
 * Ruby
-* C/C++/C#
 * Dart [Flutter]
 * Kotlin
 * Perl
