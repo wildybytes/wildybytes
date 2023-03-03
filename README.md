@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm Wildybytes! 👋
 
-<!--
-**wildybytes/wildybytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer who specializes in web and mobile application development. I really enjoy creating technology solutions that can help solve real-world problems.
 
-Here are some ideas to get you started:
+## 🔭 Technologies and Programming Languages I'm Proficient In
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* JavaScript (Node.js, React, Vue.js)
+* PHP (Laravel, CodeIgniter)
+* Python (Django, Flask)
+* Java (Spring)
+* MySQL, MongoDB, PostgreSQL
+
+## 🌱 I'm Currently Learning
+
+* Go
+* Kotlin
+
+## 📫 How to Reach Me?
+
+You can reach me via email at wildybytes@gmail.com or through [LinkedIn](https://www.linkedin.com/in/wildybytes/). I love meeting new people and talking about technology!
+
+## ⚡ Fun Facts About Me
+
+* I am a huge coffee enthusiast and love trying coffee from different places.
+* I also enjoy playing games in my spare time.
+* I like reading books about personal development and technology.
