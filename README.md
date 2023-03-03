@@ -9,7 +9,7 @@ I am a software developer who specializes in web and mobile application developm
 * Golang
 * Bash/Shell
 * Ruby
-* Dart [Flutter]
+* Dart
 * Kotlin
 * Perl
 
