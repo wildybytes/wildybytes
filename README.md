@@ -20,8 +20,9 @@ I am a software developer who specializes in web and mobile application developm
 * Java
 
 ## 📫 How to Reach Me?
-You can reach me via email at admin@wildybytes.com. I love meeting new people and talking about technology!
+You can reach me via email at admin@wildybytes.com.
 
 ## ⚡ Fun Facts About Me
-* I am a huge coffee enthusiast and love trying coffee from different places.
-* I like reading books about personal development and technology.
+* I am a coffee lover and enjoy trying coffee from different places.
+* I am always eager to learn and explore new technologies.
+* I am from Indonesia and proud of my heritage.
