@@ -14,8 +14,9 @@ I am a software developer who specializes in web and mobile application developm
 * Perl
 
 ## 🌱 I'm Currently Learning
-* Rust
-* Swift
+* c
+* c++
+* c#
 * Java
 
 ## 📫 How to Reach Me?
