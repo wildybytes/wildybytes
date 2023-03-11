@@ -10,7 +10,7 @@
   </a>
 </div>
 
-### Hi, I'm Wildybytes! 👋
+## Hi, I'm Wildybytes! 👋
 
 I am a software developer who specializes in web and mobile application development, server development, and network engineering. I enjoy creating technology solutions that can help solve real-world problems.
 
