@@ -2,7 +2,7 @@
 
 I am a software developer who specializes in web and mobile application development, server development, and network engineering. I enjoy creating technology solutions that can help solve real-world problems.
 
-<div align="center">
+<div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildybytes&theme=github" />
   </a>
