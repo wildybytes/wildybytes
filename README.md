@@ -1,9 +1,9 @@
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildybytes&theme=github)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wildybytes&theme=github)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wildybytes&theme=github)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildybytes&theme=github)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wildybytes&theme=github&utcOffset=8)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildybytes&theme=github">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wildybytes&theme=github">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wildybytes&theme=github">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildybytes&theme=github">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wildybytes&theme=github&utcOffset=8">
 </div>
 
 ## Hi, I'm Wildybytes! 👋
