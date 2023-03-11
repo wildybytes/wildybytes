@@ -21,9 +21,6 @@ I am a software developer who specializes in web and mobile application developm
 * Python
 * Golang
 * Bash/Shell
-* Ruby
-* Dart
-* Kotlin
 * Perl
 
 ## 🌱 I'm Currently Learning
