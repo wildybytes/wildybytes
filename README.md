@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="400" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildybytes&theme=github">
-  <img width="400" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wildybytes&theme=github">
-  <img width="400" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wildybytes&theme=github">
-  <img width="400" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildybytes&theme=github">
-  <img width="400" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wildybytes&theme=github&utcOffset=7">
+  <img width="805" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildybytes&theme=github">
+  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wildybytes&theme=github">
+  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wildybytes&theme=github">
+  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildybytes&theme=github">
+  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wildybytes&theme=github&utcOffset=7">
 </div>
 
 ## Hi, I'm Wildybytes! 👋
