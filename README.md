@@ -14,10 +14,6 @@ I am a software developer who specializes in web and mobile application developm
   </a>
 </div>
 
-<div align="center">
-  <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
-</div>
-
 ## 🔭 Technologies and Programming Languages I'm Proficient In
 * PHP
 * JavaScript
