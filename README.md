@@ -4,13 +4,13 @@ I am a software developer who specializes in web and mobile application developm
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangly1024&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildybytes&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangly1024&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildybytes&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tangly1024&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wildybytes&theme=github" />
   </a>
 </div>
 
