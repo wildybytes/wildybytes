@@ -1,15 +1,27 @@
 ### Hi, I'm Wildybytes! 👋
 
+<style>
+  div {
+  display: flex;
+  justify-content: center;
+}
+
+div a {
+  flex-basis: calc(33.33% - 20px); /* Set the basis size for the images */
+  margin: 10px; /* Add some margin between the images */
+}
+</style>
+
 I am a software developer who specializes in web and mobile application development, server development, and network engineering. I enjoy creating technology solutions that can help solve real-world problems.
 
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" style="flex-basis: calc(33.33% - 20px); margin: 10px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildybytes&theme=github" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" style="flex-basis: calc(33.33% - 20px); margin: 10px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildybytes&theme=github" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" style="flex-basis: calc(33.33% - 20px); margin: 10px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wildybytes&theme=github" />
   </a>
 </div>
